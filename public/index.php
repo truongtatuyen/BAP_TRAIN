@@ -14,7 +14,7 @@ require_once '../app/Router.php';
 // Invoke
 $router = new Router();
 
-// $routes from routes/web.php
+// $routes from routes/
 $router($routes);
 
 // Build Sitemap
